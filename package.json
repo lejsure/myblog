@@ -12,6 +12,7 @@
     "url": "git+https://github.com/lejsure/myblog.git"
   },
   "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/lejsure/myblog/issues"
   },
